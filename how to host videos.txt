@@ -1,0 +1,4 @@
+1. create new issue in the issues tab
+2. drag and drop the video in the text box and make a title
+3. when its posted right click and click open video in new tab
+4. copy and go about your day
